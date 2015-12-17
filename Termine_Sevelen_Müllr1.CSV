@@ -1,0 +1,67 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Reminder on/off,Reminder Date,Reminder Time,Meeting Organizer,Required Attendees,Optional Attendees,Meeting Resources,Billing Information,Categories,Description,Location,Mileage,Priority,Private,Sensitivity,Show time as
+Restmüll,2.1.16,18:00:00,2.1.16,19:00:00,FALSE,FALSE,2.1.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,15.1.16,18:00:00,15.1.16,19:00:00,FALSE,TRUE,15.1.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,29.1.16,18:00:00,29.1.16,19:00:00,FALSE,TRUE,29.1.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,12.2.16,18:00:00,12.2.16,19:00:00,FALSE,TRUE,12.2.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,26.2.16,18:00:00,26.2.16,19:00:00,FALSE,TRUE,26.2.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,11.3.16,18:00:00,11.3.16,19:00:00,FALSE,TRUE,11.3.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,24.3.16,18:00:00,24.3.16,19:00:00,FALSE,TRUE,24.3.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,8.4.16,18:00:00,8.4.16,19:00:00,FALSE,TRUE,8.4.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,22.4.16,18:00:00,22.4.16,19:00:00,FALSE,TRUE,22.4.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,7.5.16,18:00:00,7.5.16,19:00:00,FALSE,TRUE,7.5.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,21.5.16,18:00:00,21.5.16,19:00:00,FALSE,TRUE,21.5.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,3.6.16,18:00:00,3.6.16,19:00:00,FALSE,TRUE,3.6.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,17.6.16,18:00:00,17.6.16,19:00:00,FALSE,TRUE,17.6.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,1.7.16,18:00:00,1.7.16,19:00:00,FALSE,TRUE,1.7.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,15.7.16,18:00:00,15.7.16,19:00:00,FALSE,TRUE,15.7.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,29.7.16,18:00:00,29.7.16,19:00:00,FALSE,TRUE,29.7.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,12.8.16,18:00:00,12.8.16,19:00:00,FALSE,TRUE,12.8.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,26.8.16,18:00:00,26.8.16,19:00:00,FALSE,TRUE,26.8.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,9.9.16,18:00:00,9.9.16,19:00:00,FALSE,TRUE,9.9.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,23.9.16,18:00:00,23.9.16,19:00:00,FALSE,TRUE,23.9.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,8.10.16,18:00:00,8.10.16,19:00:00,FALSE,TRUE,8.10.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,21.10.16,18:00:00,21.10.16,19:00:00,FALSE,TRUE,21.10.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,5.11.16,18:00:00,5.11.16,19:00:00,FALSE,TRUE,5.11.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,18.11.16,18:00:00,18.11.16,19:00:00,FALSE,TRUE,18.11.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,2.12.16,18:00:00,2.12.16,19:00:00,FALSE,TRUE,2.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,16.12.16,18:00:00,16.12.16,19:00:00,FALSE,TRUE,16.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Restmüll,30.12.16,18:00:00,30.12.16,19:00:00,FALSE,TRUE,30.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,3
+Gelbe Tonne,11.1.16,18:00:00,11.1.16,19:00:00,FALSE,TRUE,11.1.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,9.2.16,18:00:00,9.2.16,19:00:00,FALSE,TRUE,9.2.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,7.3.16,18:00:00,7.3.16,19:00:00,FALSE,TRUE,7.3.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,4.4.16,18:00:00,4.4.16,19:00:00,FALSE,TRUE,4.4.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,2.5.16,18:00:00,2.5.16,19:00:00,FALSE,TRUE,2.5.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,30.5.16,18:00:00,30.5.16,19:00:00,FALSE,TRUE,30.5.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,27.6.16,18:00:00,27.6.16,19:00:00,FALSE,TRUE,27.6.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,25.7.16,18:00:00,25.7.16,19:00:00,FALSE,TRUE,25.7.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,22.8.16,18:00:00,22.8.16,19:00:00,FALSE,TRUE,22.8.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,19.9.16,18:00:00,19.9.16,19:00:00,FALSE,TRUE,19.9.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,17.10.16,18:00:00,17.10.16,19:00:00,FALSE,TRUE,17.10.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,14.11.16,18:00:00,14.11.16,19:00:00,FALSE,TRUE,14.11.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Gelbe Tonne,12.12.16,18:00:00,12.12.16,19:00:00,FALSE,TRUE,12.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,29.12.16,18:00:00,29.12.16,19:00:00,FALSE,TRUE,29.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,28.1.16,18:00:00,28.1.16,19:00:00,FALSE,TRUE,28.1.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,25.2.16,18:00:00,25.2.16,19:00:00,FALSE,TRUE,25.2.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,23.3.16,11:00:00,23.3.16,12:00:00,FALSE,TRUE,23.3.16,10:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,21.4.16,18:00:00,21.4.16,19:00:00,FALSE,TRUE,21.4.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,20.5.16,11:00:00,20.5.16,12:00:00,FALSE,TRUE,20.5.16,10:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,16.6.16,18:00:00,16.6.16,19:00:00,FALSE,TRUE,16.6.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,14.7.16,18:00:00,14.7.16,19:00:00,FALSE,TRUE,14.7.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,11.8.16,18:00:00,11.8.16,19:00:00,FALSE,TRUE,11.8.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,8.9.16,18:00:00,8.9.16,19:00:00,FALSE,TRUE,8.9.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,7.10.16,18:00:00,7.10.16,19:00:00,FALSE,TRUE,7.10.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,4.11.16,18:00:00,4.11.16,19:00:00,FALSE,TRUE,4.11.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Papier,1.12.16,18:00:00,1.12.16,19:00:00,FALSE,TRUE,1.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,22.1.16,18:00:00,22.1.16,19:00:00,FALSE,TRUE,22.1.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,19.2.16,18:00:00,19.2.16,19:00:00,FALSE,TRUE,19.2.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,18.3.16,18:00:00,18.3.16,19:00:00,FALSE,TRUE,18.3.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,15.4.16,18:00:00,15.4.16,19:00:00,FALSE,TRUE,15.4.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,13.5.16,18:00:00,13.5.16,19:00:00,FALSE,TRUE,13.5.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,10.6.16,18:00:00,10.6.16,19:00:00,FALSE,TRUE,10.6.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,8.7.16,18:00:00,8.7.16,19:00:00,FALSE,TRUE,8.7.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,5.8.16,18:00:00,5.8.16,19:00:00,FALSE,TRUE,5.8.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,2.9.16,18:00:00,2.9.16,19:00:00,FALSE,TRUE,2.9.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,30.9.16,18:00:00,30.9.16,19:00:00,FALSE,TRUE,30.9.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,28.10.16,18:00:00,28.10.16,19:00:00,FALSE,TRUE,28.10.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,25.11.16,18:00:00,25.11.16,19:00:00,FALSE,TRUE,25.11.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
+Bio,23.12.16,18:00:00,23.12.16,19:00:00,FALSE,TRUE,23.12.16,18:00:00,,,,,,,,,,Normal,FALSE,Normal,2
